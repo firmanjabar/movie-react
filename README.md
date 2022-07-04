@@ -2,10 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Buat Berkas `.env` di Root FolderS
+## Buat Berkas `.env` di Root Folder
 
 Dengan variable:
-REACT_APP_API_KEY_MOVIE=<<YOUR API KEY>>
+REACT_APP_API_KEY_MOVIE=<YOUR_API_KEY>
 
 ## Available Scripts
 
